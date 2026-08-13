@@ -9,5 +9,6 @@ My Python practice repository.
 * Sets
 * Exception Handling
 * File Handling
+* threading
 
 More topics coming soon 🚀
