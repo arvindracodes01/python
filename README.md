@@ -9,6 +9,7 @@ My Python practice repository.
 * Sets
 * Exception Handling
 * File Handling
-* threading
+* Multithreading
+* Multiprocessing
 
 More topics coming soon 🚀
