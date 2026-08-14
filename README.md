@@ -12,5 +12,6 @@ My Python practice repository.
 * Multithreading
 * Multiprocessing
 * module
+* package
 
 More topics coming soon 🚀
