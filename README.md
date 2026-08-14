@@ -11,5 +11,6 @@ My Python practice repository.
 * File Handling
 * Multithreading
 * Multiprocessing
+* module
 
 More topics coming soon 🚀
