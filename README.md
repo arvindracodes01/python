@@ -3,7 +3,8 @@
 My Python practice repository.
 
 ## Topics Covered
-
+* Loops
+* conditional statements
 * Functions
 * Return
 * Sets
