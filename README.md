@@ -8,6 +8,8 @@ My Python practice repository.
 * Functions
 * Return
 * Sets
+* strings
+* tuple
 * Exception Handling
 * File Handling
 * Multithreading
